@@ -1,0 +1,11 @@
+{
+  "db": {
+    "host": "db.thilun.ovh",
+    "port": 3306,
+    "database": "pandacola_chatbot",
+    "username": "pandacola",
+    "password": "6wunmGKDSjyqaBde",
+    "name": "db",
+    "connector": "mysql"
+  }
+}

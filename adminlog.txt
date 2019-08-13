@@ -1,0 +1,6 @@
+{
+  "username": "Pandacola Admin",
+  "email": "pandacola@example.com",
+  "emailVerified": true,
+  "password" : "AdminPandacola"
+}
